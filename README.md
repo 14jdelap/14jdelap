@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I'm José
+
+💻 I'm a full-stack software engineer with several years of JavaScript and Ruby experience (I've also dabbled to Go and Python)
+
+🇬🇧 I'm based in London, but have previously lived in Berlin 🇩🇪, Cambridge 🇺🇸, Lima 🇵🇪, and Madrid 🇪🇸
+
+👯 I'm mainly interested in back-end and data-engineering, but can work across the full-stack
+
+🏔 I've made two 5,500 meter glacier summits
 
 <!--
 **14jdelap/14jdelap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
