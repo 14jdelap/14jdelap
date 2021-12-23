@@ -8,7 +8,7 @@
 
 👨‍💻 I'm mainly interested in back-end and data-engineering, but can work across the full-stack
 
-🏔 I've made two 5,500 meter glacier summits and have run a 50KM race
+🏔 I've made two 5,500 meter glacier summits and have run a 50KM ultra
 
 <!--
 **14jdelap/14jdelap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
