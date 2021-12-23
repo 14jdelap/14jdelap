@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm José
 
-💻 I'm a full-stack software engineer with several years of JavaScript and Ruby experience (I've also dabbled to Go and Python)
+💻 I'm a full-stack software engineer with several years of JavaScript and Ruby experience (I've also dabbled with Go and Python)
+
+📈 I co-created Horus, a full-stack observability system for distributed microservices
 
 🇬🇧 I'm based in London, but have previously lived in Berlin 🇩🇪, Cambridge 🇺🇸, Lima 🇵🇪, and Madrid 🇪🇸
 
