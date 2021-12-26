@@ -1,4 +1,4 @@
-### Hi there 👋 I'm José
+### Hi there 👋
 
 💻 I'm a full-stack software engineer with several years of JavaScript and Ruby experience (I've also dabbled with Go and Python)
 
