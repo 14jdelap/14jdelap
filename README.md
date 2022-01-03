@@ -4,7 +4,7 @@
 
 📈 I co-created Horus ([tryhorus.com](https://www.tryhorus.com)), a full-stack, open-source observability system for distributed microservices
 
-🇬🇧 I'm based in London, but have previously lived in Berlin 🇩🇪, Cambridge 🇺🇸, Lima 🇵🇪, and Madrid 🇪🇸
+📍 I'm based in London 🇬🇧, but have previously lived in Berlin 🇩🇪, Cambridge 🇺🇸, Lima 🇵🇪, and Madrid 🇪🇸
 
 👨‍💻 I'm mainly interested in back-end and data-engineering, but can work across the full-stack
 
