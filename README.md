@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-💻 I'm a full-stack software engineer with several years of JavaScript and Ruby experience (I've also dabbled with Go and Python)
+💻 I'm a full-stack software engineer with several years of JavaScript and Ruby experience
+
+🏋️‍♂️ I've most recently worked in API infrastructure (API Gateway, K8s, Go, TypeScript, monitoring, CI/CD pipelines)
 
 📈 I co-created Horus ([tryhorus.com](https://www.tryhorus.com)), a full-stack, open-source observability system for distributed microservices
 
