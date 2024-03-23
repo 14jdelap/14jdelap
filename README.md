@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-💻 I'm a full-stack software engineer with several years of JavaScript and Ruby experience
+I'm a software and distributed systems engineer with several years of Go, JavaScript, and Ruby experience. I'm currently working on a high-throughput event processing system at Thought Machine
 
-🏋️‍♂️ I've most recently worked in API infrastructure (API Gateway, K8s, Go, TypeScript, monitoring, CI/CD pipelines)
+I also co-created Horus ([tryhorus.com](https://www.tryhorus.com)), a full-stack, open-source observability system for distributed microservices
 
-📈 I co-created Horus ([tryhorus.com](https://www.tryhorus.com)), a full-stack, open-source observability system for distributed microservices
+I'm based in London 🇬🇧, but have previously lived in Berlin 🇩🇪, Cambridge 🇺🇸, Lima 🇵🇪, and Madrid 🇪🇸
 
-📍 I'm based in London 🇬🇧, but have previously lived in Berlin 🇩🇪, Cambridge 🇺🇸, Lima 🇵🇪, and Madrid 🇪🇸
-
-👨‍💻 I'm mainly interested in back-end and data-engineering, but can work across the full-stack
-
-🏔 I've made two 5,500 meter glacier summits and have run a 50KM race
+Outside of work, I've summited two 5,500 meter glaciers and have run a 50KM race
 
 <!--
 **14jdelap/14jdelap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
