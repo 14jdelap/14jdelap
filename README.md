@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software and distributed systems engineer with several years of Go, JavaScript, and Ruby experience. I'm currently working on a high-throughput event processing system at Thought Machine
+I'm a software engineer specialized in platform and devex. I have several years of Go, JavaScript, and Ruby experience. I'm currently working in the DevEx team at Thought Machine with a focus on how we build and run our monorepo.
 
 I also co-created Horus ([tryhorus.com](https://www.tryhorus.com)), a full-stack, open-source observability system for distributed microservices
 
